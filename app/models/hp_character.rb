@@ -1,0 +1,2 @@
+class HpCharacter < ApplicationRecord
+end
